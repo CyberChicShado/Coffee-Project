@@ -1,0 +1,17 @@
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\bin\Debug\net8.0-windows\Coffeeee.exe
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\bin\Debug\net8.0-windows\Coffeeee.deps.json
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\bin\Debug\net8.0-windows\Coffeeee.runtimeconfig.json
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\bin\Debug\net8.0-windows\Coffeeee.dll
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\bin\Debug\net8.0-windows\Coffeeee.pdb
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.Form1.resources
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.Properties.Resources.resources
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.csproj.GenerateResource.cache
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.AssemblyInfo.cs
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.csproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.dll
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\refint\Coffeeee.dll
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.pdb
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\Coffeeee.genruntimeconfig.cache
+C:\Users\cyber\Documents\Visual Studio 2022\Coffeeee\obj\Debug\net8.0-windows\ref\Coffeeee.dll
